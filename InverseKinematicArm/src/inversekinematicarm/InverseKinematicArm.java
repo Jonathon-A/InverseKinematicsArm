@@ -28,7 +28,7 @@ public class InverseKinematicArm {
         ArrayList<Segment> Segments = new ArrayList<>();
 
         int TotalLength = 350;
-        int SegmentCount = 8;
+        int SegmentCount = 4;
         int SegmentSize = 4;
         int SegmentJointSize = 6;
         boolean ProportionalSegment = true;
