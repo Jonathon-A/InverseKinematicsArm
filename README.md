@@ -13,13 +13,4 @@ Some images of the project:
 
 ![image](https://user-images.githubusercontent.com/61558176/199363705-15ae373a-8f8e-43cf-8068-d9e632c31969.png)
 
-
-![alt text](https://github.com/Jonathon-A/InverseKinematicsArm/blob/main/Images/5Arm.png)
-
-![alt text](https://github.com/Jonathon-A/InverseKinematicsArm/blob/main/Images/8Arm.png)
-
-![alt text](https://github.com/Jonathon-A/InverseKinematicsArm/blob/main/Images/Long.png)
-
-![alt text](https://github.com/Jonathon-A/InverseKinematicsArm/blob/main/Images/Snake.png)
-
-![alt text](https://github.com/Jonathon-A/InverseKinematicsArm/blob/main/Images/Tenticle.png)
+![image](https://user-images.githubusercontent.com/61558176/199363804-8d97d04b-e0f3-4409-981b-826c3afbaf28.png)
